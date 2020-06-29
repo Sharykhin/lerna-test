@@ -1,6 +1,6 @@
 {
-  "name": "tracer",
-  "version": "1.0.3",
+  "name": "@siarhei/tracer",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "2b26ced115de9e23181a26a9f1f2ff2413426c79"
+  "gitHead": "88ac6d313475c5530ad8a2b7250c837f07e71ad4"
 }
