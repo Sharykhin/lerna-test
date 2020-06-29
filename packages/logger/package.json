@@ -1,6 +1,6 @@
 {
   "name": "@siarhei/logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "logger",
   "main": "index.js",
   "repository": "https://github.com/Sharykhin/lerna-test",

@@ -1,6 +1,6 @@
 {
   "name": "@siarhei/tracer",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "ISC",
   "gitHead": "88ac6d313475c5530ad8a2b7250c837f07e71ad4",
   "dependencies": {
-    "@siarhei/middleware": "^1.1.6",
+    "@siarhei/middleware": "^1.1.7",
     "opentracing": "^0.14.4"
   }
 }
