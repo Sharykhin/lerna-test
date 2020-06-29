@@ -3,5 +3,8 @@
   "repository": "https://github.com/Sharykhin/lerna-test",
   "devDependencies": {
     "lerna": "^3.16.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
