@@ -1,3 +1,3 @@
 exports.trace = function (id) {
-    console.log(`Traced ${id}`);
+    console.log(`Traced ${id} token`);
 }
