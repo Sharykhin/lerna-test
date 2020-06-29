@@ -9,5 +9,6 @@
   "repository": "https://github.com/Sharykhin/lerna-test",
   "homepage": "https://github.com/Sharykhin/lerna-test/tree/master/packages/middleware",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "57658c376c9def3cbb5f1cd6e70f81df5a7461de"
 }
