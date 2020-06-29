@@ -4,9 +4,6 @@
   "devDependencies": {
     "lerna": "^3.16.4"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "@siarhei/middleware": "^1.1.2"
   }
