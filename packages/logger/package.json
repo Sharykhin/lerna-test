@@ -11,6 +11,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "dependencies": {
+    "opentracing": "^0.14.4"
+  },
   "author": "",
   "license": "ISC",
   "gitHead": "d06c4f32f0e1894d5e4fc722c4af21f98791957c"
