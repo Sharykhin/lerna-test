@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "logger",
   "main": "index.js",
+  "repository": "https://github.com/Sharykhin/lerna-test",
+  "homepage": "https://github.com/Sharykhin/lerna-test/tree/master/packages/logger",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
