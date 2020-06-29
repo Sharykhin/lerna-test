@@ -13,5 +13,6 @@
   "homepage": "https://github.com/Sharykhin/lerna-test/tree/master/packages/tracer",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "01ee475ba0e5c4745c55e329442f875207334172"
 }
