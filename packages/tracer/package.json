@@ -1,0 +1,17 @@
+{
+  "name": "tracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/Sharykhin/lerna-test",
+  "homepage": "https://github.com/Sharykhin/lerna-test/tree/master/packages/tracer",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
