@@ -5,6 +5,6 @@
     "lerna": "^3.16.4"
   },
   "dependencies": {
-    "@siarhei/middleware": "^1.1.2"
+    "@siarhei/middleware": "^1.1.4"
   }
 }
