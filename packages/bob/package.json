@@ -12,6 +12,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sharykhin/lerna-test.git"
@@ -22,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/Sharykhin/lerna-test/issues"
-  }
+  },
+  "gitHead": "36b15d22c7f77be62461506e0fca68ec362e5ebd"
 }
