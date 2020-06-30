@@ -1,8 +1,7 @@
 {
-  "private": false,
-  "repository": "https://github.com/Sharykhin/lerna-test",
+  "name": "root",
+  "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
-  },
-  "name": "monorepo"
+  }
 }
