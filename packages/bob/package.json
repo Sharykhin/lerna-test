@@ -10,9 +10,7 @@
     "lib": "dist"
   },
   "files": [
-    "dist",
-    "info.service.d.ts",
-    "index.d.ts"
+    "dist"
   ],
   "publishConfig": {
     "access": "public"
